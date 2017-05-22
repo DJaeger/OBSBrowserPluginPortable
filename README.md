@@ -4,7 +4,7 @@ OBS Browser Plugin Portable is a portable version of [OBS Browser Plugin](https:
 
 [Visit OBS Browser Plugin Portable Homepage at PortableApps.com](https://portableapps.com/node/56173)
 
-__[Download OBS Browser Plugin Portable 1.29 Development Test 2[download]__
+__[Download OBS Browser Plugin Portable 1.29 Development Test 2][download]__
 
 ## Installing
 
